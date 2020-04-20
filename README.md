@@ -3,4 +3,4 @@
 
 Simple JS Calculator
 
-###[TRY IT](https://random-jordan.github.io/js-calculator/)
+### [TRY IT](https://random-jordan.github.io/js-calculator/)
