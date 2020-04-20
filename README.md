@@ -2,3 +2,5 @@
 
 
 Simple JS Calculator
+
+###[TRY IT](https://random-jordan.github.io/js-calculator/)
